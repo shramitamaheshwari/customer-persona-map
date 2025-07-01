@@ -77,7 +77,7 @@
 ├── notebooks/
 │ └── segmentation.ipynb
 ├── results/
-│ └── Customer_Segmentation_Result.csv
+├── Customer_Segmentation_Result.csv
 └── README.md
 ```
 
