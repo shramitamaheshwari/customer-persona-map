@@ -74,10 +74,9 @@
 
 ├── data/
 │ └── Mall_Customers.csv
-├── notebooks/
-│ └── segmentation.ipynb
+├── segmentation.ipynb
 ├── results/
-├── Customer_Segmentation_Result.csv
+│ └── Customer_Segmentation_Result.csv
 └── README.md
 ```
 
